@@ -1,0 +1,4 @@
+This is a simple python GUI based worker management application for a firm.
+It basically uses python's two modules "tkinter" and "sqlite3"
+tkinter : for creating gui
+sqlite3 : for managing workers' data
